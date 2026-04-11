@@ -15,8 +15,8 @@ QtVersion=6
 
 # ConfigFile=configs/pink-lady.conf
 # ConfigFile=configs/evelyn-light.conf
-# ConfigFile=configs/evelyn-dark.conf
-ConfigFile=configs/paradox.conf
+ConfigFile=configs/evelyn-dark.conf
+# ConfigFile=configs/paradox.conf
 # ---
 # ConfigFile=configs/default.conf
 # ConfigFile=configs/default-left.conf
