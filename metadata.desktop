@@ -13,9 +13,10 @@ Screenshot=docs/previews/default.png
 TranslationsDirectory=translations
 QtVersion=6
 
+ConfigFile=configs/sora.conf
 # ConfigFile=configs/pink-lady.conf
 # ConfigFile=configs/evelyn-light.conf
-ConfigFile=configs/evelyn-dark.conf
+# ConfigFile=configs/evelyn-dark.conf
 # ConfigFile=configs/paradox.conf
 # ---
 # ConfigFile=configs/default.conf
